@@ -1,0 +1,9 @@
+hasil olah data nilai tugas akhir
+
+![daftar nilai](https://user-images.githubusercontent.com/56192368/71501249-f1cce380-289b-11ea-9d30-1396261365b2.PNG)
+
+flowchartnya:
+
+![labsp5](https://user-images.githubusercontent.com/56192368/71501408-f5149f00-289c-11ea-8751-269f4939d240.PNG)
+
+User diarahkan untuk memilih antara tambah data, lihat data, ubah data, hapus data atau keluar dari perulangan tersebut, jika user memilih tambah data, maka user akan menginput data nama, nim, nilai tugas, nilai uts dan nilai uas, jika user memilih untuk melihat data, maka akan muncul ouput list data yg tadi di input, jika user memilih ubah data, maka user akan di suruh merubah data dengan memasukan nama yg tadi di input, jika user memilih hapus data, maka data yg tadi akan di hapus dengan menginput nama yang ada di data tadi.
